@@ -65,6 +65,8 @@
 ### 📊 Stats
 
 ![Calvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=calvinjamesheath&show_icons=true&theme=default_repocard&hide_border=false)
+<br />
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=calvinjamesheath&theme=highcontrast&hide_border=false)
 #
 
