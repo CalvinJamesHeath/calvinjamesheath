@@ -56,9 +56,9 @@
 
 ### 📺 Latest YouTube Videos
 
-[Introducing Goodbye App](https://www.youtube.com/watch?v=1-xATA1lZUc)
-[Inactivity Protocol Explained](https://www.youtube.com/watch?v=3fTUwY2Sxxw&t=4s)
-[The Perfect Goodbye Letter | What Topic Would You Include?](https://www.youtube.com/watch?v=TLze4jPOIp4)
+#### [Introducing Goodbye App](https://www.youtube.com/watch?v=1-xATA1lZUc)
+#### [Inactivity Protocol Explained](https://www.youtube.com/watch?v=3fTUwY2Sxxw&t=4s)
+#### [The Perfect Goodbye Letter | What Topic Would You Include?](https://www.youtube.com/watch?v=TLze4jPOIp4)
 
 #
 
