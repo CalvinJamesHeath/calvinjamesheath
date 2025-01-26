@@ -1,7 +1,5 @@
 # Software Developer 
 
-**`Profile`**
-
    Five years ago, I asked myself, "How many people leave this world without having the chance of saying goodbye?"
    
    My answer was [Goodbye App](https://goodbyeapp.com/). A social media platform that enables users to schedule farewell posts and letters up to 30 years into the future for their family and friends. 
@@ -12,8 +10,8 @@
       <a href="https://www.youtube.com/@goodbyeapp?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCeAG5cAQLzfD8Zgk_-Uzqnw?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
    </p>
-
----
+   
+   #
 
 ### 🧰 Languages and Tools
 
@@ -46,7 +44,7 @@
           
           
 <br />
-<br />
+
 
 ### 📨 Contact me
   <a href="https://www.linkedin.com/in/calvinjamesheath/">
@@ -55,10 +53,11 @@
 <br />
 
 ### 📺 Latest YouTube Videos
-
-#### [Introducing Goodbye App](https://www.youtube.com/watch?v=1-xATA1lZUc)
-#### [Inactivity Protocol Explained](https://www.youtube.com/watch?v=3fTUwY2Sxxw&t=4s)
-#### [The Perfect Goodbye Letter | What Topic Would You Include?](https://www.youtube.com/watch?v=TLze4jPOIp4)
+**[Introducing Goodbye App](https://www.youtube.com/watch?v=1-xATA1lZUc)**
+<br />
+**[Inactivity Protocol Explained](https://www.youtube.com/watch?v=3fTUwY2Sxxw&t=4s)**
+<br />
+**[The Perfect Goodbye Letter | What Topic Would You Include?](https://www.youtube.com/watch?v=TLze4jPOIp4)**
 
 #
 
@@ -66,8 +65,12 @@
 
 ![Calvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=calvinjamesheath&show_icons=true&theme=merko)
 
+#
 
 
-## Website: [https://goodbyeapp.com/](https://goodbyeapp.com/) 
-## Play Store: [https://play.google.com/store/apps/details?id=com.goodbyeapp.twa](https://play.google.com/store/apps/details?id=com.goodbyeapp.twa)
-## Youtube: [https://youtube.com/goodbyeapp](https://youtube.com/goodbyeapp)
+#### **`Website`** [https://goodbyeapp.com/](https://goodbyeapp.com/) 
+#### **`Play Store`**  [https://play.google.com/store/apps/details?id=com.goodbyeapp.twa](https://play.google.com/store/apps/details?id=com.goodbyeapp.twa)
+#### **`Youtube`** [https://youtube.com/goodbyeapp](https://youtube.com/goodbyeapp)
+ 
+
+
