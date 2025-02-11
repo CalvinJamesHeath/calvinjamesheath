@@ -25,6 +25,7 @@
 <img align="left" alt="React" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Redux" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" />
 <img align="left" alt="React Router" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" />
+<img align="left" alt="Tailwind" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />          
 <img align="left" alt="Material UI" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" />
 <img align="left" alt="Axios" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" />
 
@@ -87,6 +88,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=calvinjamesheath&icon=0&color=0)](https://visitcount.itsvg.in)
 
- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ -->
 
 
