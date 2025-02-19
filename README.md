@@ -1,4 +1,4 @@
-# Software Developer 
+# Software Developer  
 
    Five years ago, I asked myself, "How many people leave this world without having the chance of saying goodbye?"
    
@@ -41,10 +41,11 @@
 <img align="left" alt="GitHub" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Postman" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
 <img align="left" alt="VS Code" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />          
+
+
 </div>
    <!-- <img align="left" alt="Slack" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" /> when future job! -->
 <br />
-
 
 ### 📨 Contact me
   <a href="https://www.linkedin.com/in/calvinjamesheath/">
@@ -68,24 +69,24 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=calvinjamesheath&theme=highcontrast&hide_border=false)
 #
-
-
-#### **`Website`** [https://goodbyeapp.com/](https://goodbyeapp.com/) 
-#### **`Play Store`**  [https://play.google.com/store/apps/details?id=com.goodbyeapp.twa](https://play.google.com/store/apps/details?id=com.goodbyeapp.twa)
-#### **`Youtube`** [https://youtube.com/goodbyeapp](https://youtube.com/goodbyeapp)
-
-
- <!--
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=calvinjamesheath&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=calvinjamesheath&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=calvinjamesheath&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=calvinjamesheath&icon=0&color=0)](https://visitcount.itsvg.in)
-
- -->
-
-
+<br />
+<div>
+   
+<img align="left" alt="VS Code" width="45px" src="https://firebasestorage.googleapis.com/v0/b/gbapp-b859e.appspot.com/o/blueLogo.png?alt=media&token=44994f97-ab43-4e8d-ada4-a808319bf6e7" />   **`Website`**
+   
+ [https://goodbyeapp.com/](https://goodbyeapp.com/) 
+</div>
+<br />
+<div>
+   
+ <img align="left" alt="VS Code" width="28px" src="https://static-00.iconduck.com/assets.00/google-play-icon-icon-1917x2048-2fljsw4s.png" />     **`Play Store`**
+   
+[https://play.google.com/store/apps/details?id=com.goodbyeapp.twa](https://play.google.com/store/apps/details?id=com.goodbyeapp.twa)
+</div>
+<br />
+<div>
+   
+<img align="left" alt="VS Code" width="28px" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" />     **`Youtube`**
+   
+[https://youtube.com/goodbyeapp](https://youtube.com/goodbyeapp)
+</div>
