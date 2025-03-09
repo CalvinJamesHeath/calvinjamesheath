@@ -8,12 +8,6 @@
 
 <img src="https://firebasestorage.googleapis.com/v0/b/gbapp-b859e.appspot.com/o/social%2Fgb_phones_gplay.png?alt=media&token=c104f770-7b91-40b7-a9cf-d00bb05ca13a" />
 
-   <p align="left">
-      <a href="https://www.youtube.com/@goodbyeapp?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to Goodbye App's YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCeAG5cAQLzfD8Zgk_-Uzqnw?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-   </p>
-
-
 ### 🧰 Languages and Tools
 
 <!-- Core Languages -->
@@ -62,7 +56,10 @@
 <br />
 **[The Perfect Goodbye Letter | What Topic Would You Include?](https://www.youtube.com/watch?v=TLze4jPOIp4)**
 
-#
+ <p align="left">
+      <a href="https://www.youtube.com/@goodbyeapp?sub_confirmation=1">
+         <img alt="youtube subscribers" title="Subscribe to Goodbye App's YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCeAG5cAQLzfD8Zgk_-Uzqnw?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+   </p>
 
 ### 📊 Stats
 
