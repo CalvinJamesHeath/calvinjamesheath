@@ -9,6 +9,7 @@
 <a href='https://goodbyeapp.com/' rel='noopener noreferrer' target='_blank' aria-label='Website'>
 <img src="https://firebasestorage.googleapis.com/v0/b/gbapp-b859e.appspot.com/o/social%2Fgb_phones_gplay.png?alt=media&token=c104f770-7b91-40b7-a9cf-d00bb05ca13a" />
 </a>
+
 ### 🧰 Languages and Tools
 
 <!-- Core Languages -->
