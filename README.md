@@ -1,6 +1,6 @@
 # Software Engineer  
 
-   Five years ago, I asked myself, "How many people leave this world without having the chance of saying goodbye?"
+   Five years ago, I asked myself: "How many people leave this world without having the chance of saying goodbye?"
    
    My answer was [Goodbye App](https://goodbyeapp.com/). A social media platform that allows users to schedule farewell posts and letters up to 30 years into the future for their family and friends. 
    
