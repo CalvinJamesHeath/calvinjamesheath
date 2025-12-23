@@ -65,11 +65,6 @@
          <img alt="youtube subscribers" title="Subscribe to Goodbye App's YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCeAG5cAQLzfD8Zgk_-Uzqnw?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
    </p>
 
-### 📊 Stats
-
-![Calvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=calvinjamesheath&show_icons=true&theme=default_repocard&hide_border=false)
-<br />
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=calvinjamesheath&theme=highcontrast&hide_border=false)
 #
 <br />
@@ -82,7 +77,7 @@
 <br />
 <div>
    
- <img align="left" alt="VS Code" width="28px" src="https://static-00.iconduck.com/assets.00/google-play-icon-icon-1917x2048-2fljsw4s.png" />     **`Play Store`**
+ <img align="left" alt="VS Code" width="28px" src="https://static.vecteezy.com/system/resources/previews/022/484/501/non_2x/google-play-store-icon-logo-symbol-free-png.png" />     **`Play Store`**
    
 [https://play.google.com/store/apps/details?id=com.goodbyeapp.twa](https://play.google.com/store/apps/details?id=com.goodbyeapp.twa)
 </div>
