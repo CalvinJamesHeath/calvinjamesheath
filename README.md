@@ -17,6 +17,7 @@
    <img align="left" alt="CSS" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
    <img align="left" alt="JavaScript" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"  />
    <img align="left" alt="TypeScript" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+   <img align="left" alt="Python" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
     <!-- Frameworks and Libraries -->
    <img align="left" alt="React" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
    <img align="left" alt="Redux" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" />
@@ -52,7 +53,7 @@
 <br />
 
 <small>
-HTML - CSS - JavaScript - TypeScript - React - Redux - React Router - Tailwind CSS - Bootstrap - Material UI - Sass - Figma - Axios - Node.js - Express - Firebase - Google Cloud Platform - Git - GitHub - Docker - Postman - VS Code - Slack - Handlebars - Canva - Playwright
+HTML - CSS - JavaScript - TypeScript - Python - React - Redux - React Router - Tailwind CSS - Bootstrap - Material UI - Sass - Figma - Axios - Node.js - Express - Firebase - Google Cloud Platform - Git - GitHub - Docker - Postman - VS Code - Slack - Handlebars - Canva - Playwright
 </small>
 
 
