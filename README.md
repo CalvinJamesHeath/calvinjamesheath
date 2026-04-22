@@ -42,6 +42,7 @@
 <img align="left" alt="VS Code" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />     
 <img align="left" alt="Slack" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" /> 
 <img align="left" alt="Handlebars" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/handlebars/handlebars-original.svg" />
+<img align="left" alt="Canva" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
 <img align="left" alt="Playwrigh" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" />
 
 
@@ -51,7 +52,7 @@
 <br />
 
 <small>
-HTML - CSS - JavaScript - TypeScript - React - Redux - React Router - Tailwind CSS - Bootstrap - Material UI - Sass - Figma - Axios - Node.js - Express - Firebase - Google Cloud Platform - Git - GitHub - Docker - Postman - VS Code - Slack - Handlebars - Playwright
+HTML - CSS - JavaScript - TypeScript - React - Redux - React Router - Tailwind CSS - Bootstrap - Material UI - Sass - Figma - Axios - Node.js - Express - Firebase - Google Cloud Platform - Git - GitHub - Docker - Postman - VS Code - Slack - Handlebars - Canva - Playwright
 </small>
 
 
