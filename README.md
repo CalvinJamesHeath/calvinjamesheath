@@ -53,7 +53,7 @@
 <br />
 
 <small>
-HTML - CSS - JavaScript - TypeScript - Python - React - Redux - React Router - Tailwind CSS - Bootstrap - Material UI - Sass - Figma - Axios - Node.js - Express - Firebase - Google Cloud Platform - Git - GitHub - Docker - Postman - VS Code - Slack - Handlebars - Canva - Playwright
+HTML - CSS - JavaScript - TypeScript - Python - React - React Native - Redux - React Router - Tailwind CSS - Bootstrap - Material UI - Sass - Figma - Axios - Node.js - Express - Firebase - Google Cloud Platform - Git - GitHub - Docker - Postman - VS Code - Slack - Handlebars - Canva - Playwright
 </small>
 
 
